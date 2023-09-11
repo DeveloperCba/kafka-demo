@@ -1,0 +1,12 @@
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.deps.json
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.dll
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.pdb
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.csproj.AssemblyReference.cache
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.AssemblyInfoInputs.cache
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.AssemblyInfo.cs
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.csproj.CoreCompileInputs.cache
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.dll
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\refint\Core.Kafka.dll
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.pdb
+D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\ref\Core.Kafka.dll
