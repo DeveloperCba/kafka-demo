@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I7QOcI1Vx7Iq9MgDwkMkuLDzHONs78dlLjntjeZTUda6/lDa9ZUnx53IGoJdT+l87Ml0riku1fQPOxWjej1yrg==",
+  "dgSpecHash": "L/UVVr3o/OaEnWmjlD+SmaGQTzVmsPaS4BnZ7AWyY7M8xecvhaEwWtjSZm5shjYsBY01lo5Sbj/WkMuirJEhmQ==",
   "success": true,
-  "projectFilePath": "D:\\VIDEO AULAS\\_CURSO DENVOLVEDOR.IO\\Dominando o Apache Kafka\\Projetos\\DesenvolvedorIO.Tips\\DesenvolvedorIO.Tips.csproj",
+  "projectFilePath": "C:\\_GitHub Demo\\kafka-demo\\DesenvolvedorIO.Tips\\DesenvolvedorIO.Tips.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Servidor\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
     "C:\\Users\\Servidor\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
