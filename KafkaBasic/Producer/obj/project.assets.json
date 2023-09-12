@@ -3800,11 +3800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Producer\\Producer.csproj",
+      "projectUniqueName": "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Producer\\Producer.csproj",
       "projectName": "Producer",
-      "projectPath": "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Producer\\Producer.csproj",
+      "projectPath": "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Producer\\Producer.csproj",
       "packagesPath": "C:\\Users\\Servidor\\.nuget\\packages\\",
-      "outputPath": "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Producer\\obj\\",
+      "outputPath": "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Producer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

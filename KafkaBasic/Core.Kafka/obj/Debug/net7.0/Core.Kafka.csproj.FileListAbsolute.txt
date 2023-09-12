@@ -10,3 +10,15 @@ D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.dll
 D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\refint\Core.Kafka.dll
 D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.pdb
 D:\_DEV\_LAB\_Kafka\KafkaBasic\Core.Kafka\obj\Debug\net7.0\ref\Core.Kafka.dll
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.deps.json
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.dll
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.pdb
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.csproj.AssemblyReference.cache
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.AssemblyInfoInputs.cache
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.AssemblyInfo.cs
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.csproj.CoreCompileInputs.cache
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.dll
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\refint\Core.Kafka.dll
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.pdb
+C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\ref\Core.Kafka.dll

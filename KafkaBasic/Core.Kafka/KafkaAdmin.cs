@@ -1,8 +1,5 @@
 ﻿using Confluent.Kafka;
 using Confluent.Kafka.Admin;
-using System.Resources;
-using System.Text.RegularExpressions;
-using static Confluent.Kafka.ConfigPropertyNames;
 
 namespace Core.Kafka;
 

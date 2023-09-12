@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Core.Kafka\\Core.Kafka.csproj": {}
+    "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Core.Kafka\\Core.Kafka.csproj": {}
   },
   "projects": {
-    "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Core.Kafka\\Core.Kafka.csproj": {
+    "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Core.Kafka\\Core.Kafka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Core.Kafka\\Core.Kafka.csproj",
+        "projectUniqueName": "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Core.Kafka\\Core.Kafka.csproj",
         "projectName": "Core.Kafka",
-        "projectPath": "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Core.Kafka\\Core.Kafka.csproj",
+        "projectPath": "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Core.Kafka\\Core.Kafka.csproj",
         "packagesPath": "C:\\Users\\Servidor\\.nuget\\packages\\",
-        "outputPath": "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Core.Kafka\\obj\\",
+        "outputPath": "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Core.Kafka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,22 @@
             "Confluent.SchemaRegistry.Serdes.Avro": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NetDevPack.OpenTelemetry.Extensions": {
+              "target": "Package",
+              "version": "[1.0.0-alpha1, )"
             }
           },
           "imports": [

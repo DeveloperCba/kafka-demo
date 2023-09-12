@@ -9,10 +9,10 @@
   <ItemGroup>
     <PackageReference Include="Confluent.Kafka" Version="2.2.0" />
     <PackageReference Include="Confluent.SchemaRegistry.Serdes.Avro" Version="2.2.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Configurations\" />
+    <PackageReference Include="FluentValidation" Version="11.7.1" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <PackageReference Include="NetDevPack.OpenTelemetry.Extensions" Version="1.0.0-alpha1" />
   </ItemGroup>
 
 </Project>

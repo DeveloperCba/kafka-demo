@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "loTZJFJH88znrR0BU7rO3LRpdLqJ7CBG0HyOFJxL1/pSbAiGStRlXtJQxSEAnUIBSRdb2hlOK2z2z7VPQClWMw==",
+  "dgSpecHash": "7pUzYKJ/lWPYgpzDiyOIC6yq11GFFLhvVnw5Rl41ntPx3RD1pOl+pHceb8Ya6aY8h6Rc6Lo90gv2/B7IYhQv1g==",
   "success": true,
-  "projectFilePath": "D:\\_DEV\\_LAB\\_Kafka\\KafkaBasic\\Producer\\Producer.csproj",
+  "projectFilePath": "C:\\_GitHub Demo\\kafka-demo\\KafkaBasic\\Producer\\Producer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Servidor\\.nuget\\packages\\apache.avro\\1.11.0\\apache.avro.1.11.0.nupkg.sha512",
     "C:\\Users\\Servidor\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",

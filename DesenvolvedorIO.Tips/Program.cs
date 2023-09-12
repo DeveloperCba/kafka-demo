@@ -29,9 +29,9 @@ static async Task Produzir(int i)
 
         // Habilitar idempotência
         EnableIdempotence = true,
-        Acks = Acks.All,
-        MaxInFlight = 1,
-        MessageSendMaxRetries = 2,
+        Acks = Acks.All, // Opção que confirma que a mensagem foi entregue.
+        MaxInFlight = 1, // Quantidade de conexão com kafka
+        MessageSendMaxRetries = 2, // Padrão para o Retry
 
         TransactionalId = Guid.NewGuid().ToString()
     };
