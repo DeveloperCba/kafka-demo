@@ -22,3 +22,15 @@ C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.dll
 C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\refint\Core.Kafka.dll
 C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.pdb
 C:\_GitHub Demo\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\ref\Core.Kafka.dll
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.deps.json
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.dll
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\bin\Debug\net7.0\Core.Kafka.pdb
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.csproj.AssemblyReference.cache
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.AssemblyInfoInputs.cache
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.AssemblyInfo.cs
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.csproj.CoreCompileInputs.cache
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.dll
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\refint\Core.Kafka.dll
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\Core.Kafka.pdb
+C:\TJMT\_CODIGO FONTE\kafka-demo\KafkaBasic\Core.Kafka\obj\Debug\net7.0\ref\Core.Kafka.dll

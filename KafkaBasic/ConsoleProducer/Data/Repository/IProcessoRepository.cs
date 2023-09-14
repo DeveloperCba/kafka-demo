@@ -1,8 +1,10 @@
-﻿namespace ConsoleProducer.Data.Repository
+﻿using ConsoleProducer.Models;
+
+namespace ConsoleProducer.Data.Repository
 {
     public  interface IProcessoRepository
     {
-        Task<dynamic> GetById(long prodcessoId);
-        Task<dynamic> GetByProcessNumber(string processNumber);
+        Task<IEnumerable<OmniProcess>> GetById(long prodcessoId);
+        Task<IEnumerable<OmniProcess>> GetByProcessNumber(string processNumber);
     }
 }

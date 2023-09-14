@@ -10,7 +10,7 @@ public static class DependencieInjectionConfig
     public static ServiceProvider ConfigureService()
     {
         var configuration = AppSettingsExtensions.GetConfigurationAppSettings();
-
+        var conn = configuration.GetProjectConnectionString("DefaultConnection");
         var appSettings = configuration.GetAppSettings<KafkaSettings>(nameof(KafkaSettings));
 
         var serviceProvider = new ServiceCollection()
@@ -22,6 +22,7 @@ public static class DependencieInjectionConfig
                 })
                 .Configure<KafkaSettings>(configuration.GetSection(nameof(KafkaSettings)))
                 //.AddScoped<ICepService,CepService>()
+          
             ;
 
         ServiceProvider provider = serviceProvider.BuildServiceProvider();
