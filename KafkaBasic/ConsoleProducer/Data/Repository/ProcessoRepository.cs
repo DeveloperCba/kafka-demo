@@ -23,7 +23,7 @@ public class ProcessoRepository : IProcessoRepository
     public async Task<IEnumerable<OmniProcess>> GetByProcessNumber(string processNumber)
     {
         var query = GetQuery();
-        query += $@" AND t0.NumeroUnico = {processNumber}";
+        query += $@" AND t9.NumeroUnico = {processNumber}";
         return await _context.Connection.QueryAsync<OmniProcess>(query);
     }
 
@@ -400,7 +400,7 @@ public class ProcessoRepository : IProcessoRepository
 								,t0.SentHDCJE_Nupemec							AS SentHDCJE_Nupemec					
 								,t0.SentHDC1_Nupemec							AS SentHDC1_Nupemec		
 
-							INTO #FatoProcessoEvento
+							--INTO #FatoProcessoEvento
 							FROM OMNI_DW.Juridico.FatoProcessoEvento			t0
 							LEFT JOIN pj.DimEstruturaJudiciaria					t1  on t1.SkEstruturaJudiciaria	= t0.SkEstruturaJudiciaria
 							LEFT JOIN cnj.DimClasse								t2  on t2.SkClasse				= t0.SkClasse

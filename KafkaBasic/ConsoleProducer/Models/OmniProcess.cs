@@ -1,5 +1,12 @@
 ﻿namespace ConsoleProducer.Models
 {
+    public class OmniProcessDto
+    {
+        public string IdSistema { get; set; }
+        public string SkProcesso { get; set; }
+        public string NumeroUnico { get; set; }
+    }
+
     public class OmniProcess
     {
         public string SkTempo { get; set; }
